@@ -1,5 +1,5 @@
 # VPlay
-Court Line Detection & Tracking Project �📹
+Court Line Detection & Tracking Project 
 
 This project uses YOLOv8 and YOLOv5 with tracking algorithms to detect and analyze court lines, player movement, and ball tracking in tennis videos.
 

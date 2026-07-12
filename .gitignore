@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.log
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env
+.env
+.venv/
+venv/
+env/
+
+# Large files and folders
+yolov8x.pt
+models/
+input_videos/
+output_videos/
+RESULTS/
+runs/
+*.pt
+*.pth
+*.mp4
+*.avi
+*.mov
+*.weights
+
+# Training data
+training/tennis-ball-detection-6/tennis-ball-detection-6/
+
+# OS/IDE
+.DS_Store
+.vscode/
+.idea/
